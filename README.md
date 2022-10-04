@@ -1,1 +1,1 @@
-Creating a Inventory managment system + POS system . Using a SPA setup with react, and Java backend connected to SQL ![Inventory Management System](https://user-images.githubusercontent.com/89275143/193479196-651d6deb-1661-4b81-b9f4-79809c8b983a.png)
+Creating a Inventory managment system + POS system . Using a SPA setup with react, and Java backend connected to SQL. ![Inventory Management System](https://user-images.githubusercontent.com/89275143/193479196-651d6deb-1661-4b81-b9f4-79809c8b983a.png)
